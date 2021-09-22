@@ -2,5 +2,6 @@ streamlit
 numpy
 pandas
 time
+matplotlib
 matplotlib.pyplot
 seaborn
